@@ -71,15 +71,6 @@ The project involves comprehensive Exploratory Data Analysis (EDA) conducted usi
   - Registration Lead Time: Analysis of how far in advance participants register for sessions.
   - Registrations by Day of Week: Understanding which days see the most registration activity.
 
-### 3. Combined Analysis (Across all datasets)
-
-- **Objective**: To uncover relationships between movie characteristics, registration behavior, and feedback.
-- **Key Visualizations & Insights**:
-  - Most Attractive Genres: Identifying which movie genres attract the highest number of registrations.
-  - IMDb Score vs. Participation/Satisfaction: Exploring correlations between a movie's critical rating and attendance/satisfaction.
-  - Satisfaction by Genre & Movie: How average satisfaction varies across different movie titles and genres.
-  - Feedback Submission Rate: Comparing the percentage of feedback submissions relative to registrations for each session.
-
 ## 📈 Power BI Dashboard
 
 A comprehensive Power BI dashboard has been designed to provide interactive insights based on the combined datasets. The dashboard is structured into two main pages:
